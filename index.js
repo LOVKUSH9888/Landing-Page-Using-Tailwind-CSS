@@ -2,7 +2,10 @@ tailwind.config = {
     theme: {
       extend: {
         colors: {
-          clifford: '#da373d',
+          "logo": {
+            700: "#1C59AE",
+            800: "#114a9a",
+          }
         }
       }
     }
